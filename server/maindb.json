@@ -2,15 +2,4466 @@
   "admin": {
     "username": "admin",
     "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "a158bcd54404881ad61f2acbeeb76135",
+    "loginToken": "85f9a6b4a44b0232f170e79b507a5181",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-03-24T11:10:07.180Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-04-04T04:53:41.854Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T04:53:42.147Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.430Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.440Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.443Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.448Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.453Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.456Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.458Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.465Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.467Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.470Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.472Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.474Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.476Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.481Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.483Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.485Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.487Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.489Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.491Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.493Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.495Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.498Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.500Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.502Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.504Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.506Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.508Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.511Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.513Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.516Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T04:53:42.518Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T05:01:28.779Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T05:01:29.272Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T05:01:29.495Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T05:02:30.410Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:02:39.088Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:02:53.892Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:02:54.438Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 Contacts Updated - 25 New Contacts Added"
+      },
+      {
+        "time": "2024-04-04T05:03:03.485Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:03:03.958Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 GPS Updated"
+      },
+      {
+        "time": "2024-04-04T05:03:10.340Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:03:10.669Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 Call Log Updated - 4 New Calls"
+      },
+      {
+        "time": "2024-04-04T05:03:28.517Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:03:29.037Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 SMS List Updated - 6 New Messages"
+      },
+      {
+        "time": "2024-04-04T05:03:43.390Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:03:43.732Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 WiFi Updated - 8 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2024-04-04T05:06:06.436Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:09.257Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 Apps Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:09.356Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:10.219Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 Apps Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:29.474Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:29.935Z",
+        "type": "SUCCESS",
+        "message": "4447b23eee261390 Permissions Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:34.009Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:34.386Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:43.244Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:43.641Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:46.290Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:46.595Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:51.153Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:51.552Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:54.012Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:54.307Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:06:57.133Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:06:57.478Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:07:01.723Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:07:02.050Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:07:07.476Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:07:07.791Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:07:10.022Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 4447b23eee261390"
+      },
+      {
+        "time": "2024-04-04T05:07:10.359Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2024-04-04T05:32:57.423Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T05:53:50.928Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T05:55:07.610Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:07:58.130Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:40:57.376Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:41:10.684Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:46:45.798Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:46:47.906Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:46:49.261Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:46:55.018Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:47:06.115Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:47:08.254Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:47:10.166Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T06:50:16.482Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:50:20.705Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:50:50.711Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:50:52.641Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:51:22.644Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:51:25.606Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:51:55.606Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:52:02.540Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:52:32.541Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:52:36.107Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:53:06.112Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:53:12.931Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:53:42.930Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:53:49.170Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:54:19.176Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:54:21.405Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:54:51.409Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:54:53.708Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:55:23.712Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:55:25.392Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:55:55.394Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:55:57.804Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:56:27.805Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:56:31.889Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:57:01.892Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:57:08.485Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:57:38.483Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:57:44.233Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:58:14.234Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:58:16.292Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:58:46.294Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:58:47.218Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T06:59:43.092Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T06:59:45.377Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:00:15.378Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:00:20.584Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:00:50.585Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:00:51.770Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:01:21.773Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:01:23.685Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:01:53.685Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:02:00.546Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:02:30.547Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:02:32.806Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:03:02.807Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:03:05.418Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:03:35.419Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:03:37.511Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:04:07.513Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:04:09.085Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:04:39.086Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:04:41.207Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:05:11.209Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:05:12.640Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:05:42.641Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:05:45.075Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:06:15.077Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:06:16.882Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:06:46.883Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:06:53.361Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:07:23.361Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:07:24.757Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:07:54.756Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:08:01.405Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:08:31.406Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:08:33.315Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:09:03.315Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:09:09.080Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:09:39.080Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:09:40.423Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:10:10.425Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:10:45.865Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:11:15.863Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:11:17.875Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:11:47.876Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:11:52.612Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:12:22.612Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:12:24.144Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:12:54.144Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:12:56.964Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:13:26.964Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:13:28.220Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:13:58.225Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:14:02.712Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:14:32.713Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:14:33.933Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:15:03.935Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:15:06.214Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:15:36.219Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:15:42.025Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:16:12.017Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:16:13.651Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:16:43.653Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:16:45.968Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:17:15.963Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:17:21.607Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:17:51.609Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:17:57.513Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:18:27.507Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:18:30.198Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:19:00.197Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:19:09.137Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:19:39.137Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:19:41.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:20:11.883Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:20:21.129Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:20:51.125Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:20:53.222Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:21:23.224Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:21:24.787Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:21:54.789Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:21:57.037Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:22:27.041Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:22:28.582Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:24:14.779Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:24:21.664Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:24:51.663Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:24:57.969Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:25:27.968Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:25:30.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:26:00.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:26:06.819Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:26:36.815Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:26:38.308Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:27:08.312Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:27:10.430Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:27:40.430Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:27:46.638Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:28:16.633Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:28:25.767Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:28:55.765Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:28:57.726Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:29:27.727Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:29:29.768Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:29:59.770Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:30:05.994Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:30:35.986Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:30:41.888Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:31:11.890Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:31:13.151Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:31:43.150Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:31:45.119Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:32:15.122Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:32:18.770Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:32:48.770Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:32:51.492Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:33:21.494Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:33:24.242Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:34:22.019Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:34:24.651Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:34:54.651Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:34:55.977Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:35:25.977Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:35:27.840Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:35:57.840Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:36:02.650Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:36:32.651Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:36:34.332Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:37:04.331Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:37:07.118Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:37:37.119Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:38:40.383Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:39:10.369Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:39:12.343Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:39:42.341Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:39:44.481Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:40:14.484Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:40:16.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:40:46.478Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:40:52.493Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:41:22.492Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:41:24.145Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:41:54.149Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:42:00.257Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:42:30.256Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:42:33.552Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:43:03.545Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:43:04.999Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:43:35.005Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:43:36.412Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:44:06.406Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:44:08.319Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:44:38.321Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:44:39.641Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:45:09.638Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:45:11.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:45:41.477Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:45:48.878Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:46:18.881Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:46:20.597Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:46:50.599Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:46:52.627Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:47:22.620Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:47:24.723Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:47:54.724Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:47:57.195Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:48:27.195Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:48:29.446Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:48:59.437Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:49:00.717Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:49:30.720Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:49:35.201Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:50:05.202Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:50:07.565Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:50:37.565Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:50:42.249Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:51:12.247Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:51:14.368Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:51:44.363Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:51:50.726Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:52:20.737Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:52:23.178Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:52:53.160Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:52:57.427Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:53:27.429Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:53:32.646Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:54:02.639Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:54:04.577Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:54:34.575Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:54:36.331Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:55:57.134Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:56:02.168Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:56:32.167Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:56:34.635Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:57:04.636Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:57:07.507Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:57:37.509Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:57:42.851Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:58:12.850Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:58:13.659Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:58:43.660Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:58:45.065Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:59:15.073Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T07:59:25.188Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T07:59:55.188Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:00:21.417Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:00:51.412Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:00:57.624Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:01:16.122Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:02:56.082Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:02:57.251Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:03:27.272Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:03:28.856Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:03:58.847Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:03:59.840Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:04:29.843Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:04:31.179Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:07:44.057Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:07:44.264Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:07:51.979Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:12:18.606Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:12:22.731Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:20:33.099Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:20:35.172Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:25:09.893Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:39:32.115Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:39:43.180Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:40:13.176Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:40:24.071Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:40:54.050Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:40:55.615Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:41:25.617Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:41:28.162Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:41:53.570Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:42:14.498Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:43:58.804Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:44:01.200Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:44:21.817Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:44:22.540Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:44:22.777Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T08:47:16.908Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:47:19.018Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:47:49.017Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:47:50.526Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:48:20.532Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:48:32.890Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:49:02.883Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:49:03.885Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:54:37.137Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:54:39.179Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:55:09.178Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:55:12.794Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:55:42.795Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:55:44.679Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:57:57.856Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:58:00.614Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:58:30.615Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:58:35.048Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:59:05.046Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:59:07.904Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T08:59:37.900Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T08:59:40.056Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:00:10.053Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:00:12.329Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:00:42.328Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:00:44.399Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:01:14.395Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:01:16.502Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:01:46.500Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:01:52.563Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:02:22.563Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:02:24.619Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:02:54.622Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:03:02.619Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:03:32.614Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:08:54.044Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:09:24.035Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:09:35.239Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:10:05.235Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:10:06.649Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:20:18.343Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:20:19.733Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:20:49.732Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:20:51.130Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:21:21.129Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:21:22.996Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:21:52.989Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:21:54.850Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:22:24.848Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:22:25.647Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:22:55.647Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:22:56.602Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:23:26.602Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:23:32.787Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:24:02.787Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:24:06.666Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:24:36.666Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:24:37.803Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:25:07.801Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:25:09.153Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:25:39.153Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:25:40.720Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:26:10.719Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:26:12.720Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:26:42.719Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:26:44.371Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:27:14.369Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:27:16.709Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:27:46.711Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:27:48.717Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:28:18.713Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:28:20.461Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:28:50.462Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:28:59.466Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:29:29.464Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:29:31.123Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:30:01.115Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:30:07.289Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:30:37.287Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:30:38.257Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:31:08.256Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:31:15.411Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:31:45.409Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:31:52.304Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:32:22.303Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:32:28.120Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:32:58.121Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:33:03.236Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:33:33.233Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:33:35.950Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:34:05.952Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:34:07.609Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:34:37.609Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:34:39.708Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:35:09.706Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:35:11.573Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:35:41.569Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:35:43.796Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:36:13.800Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:36:25.731Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:36:55.733Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:36:58.217Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:37:28.217Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:37:30.137Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:38:00.137Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:38:05.972Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:38:35.976Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:38:41.859Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:39:11.859Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:39:13.952Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:39:43.950Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:39:44.912Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:40:14.910Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:40:21.672Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:40:34.755Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:34.993Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:37.215Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:37.426Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:39.786Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:43.146Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:43.357Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:45.454Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:48.511Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:55.980Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:55.991Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:56.445Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:56.672Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:57.316Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:57.768Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:58.328Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:58.764Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:59.490Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:59.496Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:40:59.908Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:00.152Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:01.016Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:01.020Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:01.794Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:01.799Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:02.541Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:03.468Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:03.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:04.749Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:05.566Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:05.575Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:06.388Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:06.393Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:07.056Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:07.893Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:08.622Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:08.823Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:10.187Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:10.590Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:11.290Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:11.299Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:12.312Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:12.320Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:41:12.854Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:17.725Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:17.937Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:19.797Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:43.638Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:43.837Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:42:44.675Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T09:44:20.762Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:44:23.005Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:44:53.005Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:44:55.011Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:45:24.996Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:45:31.463Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:46:01.461Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:46:03.626Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:46:33.619Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:46:36.623Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:47:06.621Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:47:08.326Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:47:38.324Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:47:40.941Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:48:10.940Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:48:13.280Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:48:43.275Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:48:45.610Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:49:15.591Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:49:21.843Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:49:51.835Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:49:53.586Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:51:39.889Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:51:42.194Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:52:12.193Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:52:14.480Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:52:44.479Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:52:46.413Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:53:16.413Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:53:18.593Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:53:48.594Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:53:54.438Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:54:24.438Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:54:30.326Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:55:00.323Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:55:02.269Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:55:32.269Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:55:38.181Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:56:08.178Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:56:10.222Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:56:40.222Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:56:41.449Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:57:11.449Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:57:17.994Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:57:47.989Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:57:49.572Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:58:19.573Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:58:21.495Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:58:51.492Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:58:53.448Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:59:23.446Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T09:59:25.858Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T09:59:55.856Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:00:01.949Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:00:31.947Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:00:34.023Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:01:04.020Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:01:09.657Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:01:35.752Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T10:01:35.966Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T10:03:15.144Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:03:21.573Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:03:51.575Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:03:58.067Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:04:28.066Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:04:30.015Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:05:00.009Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:05:02.635Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:05:32.634Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:05:33.782Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:06:03.778Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:06:10.503Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:06:40.501Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:06:42.056Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:07:12.056Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:07:13.801Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:07:43.799Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:07:50.330Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:08:20.328Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:08:21.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:08:51.885Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:08:53.571Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:09:23.570Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:09:30.181Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:10:00.178Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:10:01.986Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:10:31.985Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:10:33.396Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:11:03.394Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:11:06.214Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:11:36.206Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:11:42.057Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:12:12.056Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:12:13.981Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:12:43.977Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:12:49.844Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:13:19.844Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:13:22.031Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:13:52.030Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:13:59.022Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:14:29.020Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:14:31.166Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:15:01.164Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:15:08.106Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:15:38.103Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:15:43.948Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:16:13.942Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:16:20.045Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:16:50.043Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:16:53.229Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:17:23.227Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:17:25.890Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:17:55.889Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:18:02.167Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:18:32.166Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:18:37.980Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:19:07.971Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:19:13.930Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:19:43.930Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:19:45.258Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:20:15.257Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:20:21.797Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:20:51.795Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:20:53.436Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:21:23.435Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:21:25.145Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:21:55.144Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:21:56.958Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:22:26.957Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:22:29.623Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:22:59.622Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:23:00.951Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:23:30.952Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:23:33.328Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:24:03.325Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:24:05.326Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:24:35.322Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:24:36.954Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:25:06.951Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:25:09.029Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:25:39.029Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:25:45.567Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:26:15.564Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:26:17.190Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:26:47.189Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:26:49.102Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:27:19.099Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:27:21.703Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:27:51.701Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:27:54.691Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:28:24.689Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:28:31.429Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:29:01.426Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:29:03.959Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:29:33.958Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:29:39.797Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:30:09.794Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:30:15.842Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:30:45.839Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:30:48.468Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:31:18.466Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:31:24.964Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:31:54.963Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:32:01.882Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:32:31.876Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:32:33.639Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:33:03.626Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:33:05.481Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:33:35.478Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:33:36.828Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:35:22.976Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:35:29.399Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:35:59.392Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:36:00.875Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:36:30.872Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:36:33.069Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:37:03.067Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:37:09.164Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:37:39.163Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:37:40.549Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:38:10.547Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:38:16.887Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:38:46.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:38:48.446Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:39:18.444Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:39:20.246Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:39:50.244Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:39:52.162Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:40:22.159Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:40:24.678Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:40:54.675Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:41:00.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:41:30.885Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:41:37.891Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:42:07.886Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:42:09.126Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:42:39.128Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:42:45.671Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:43:06.227Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T10:43:06.467Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T10:44:44.024Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:44:45.986Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:45:15.983Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:45:17.788Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:45:47.785Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:45:54.029Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:46:24.024Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:46:26.658Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:46:56.653Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:46:57.635Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:47:27.630Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:47:31.758Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:48:01.758Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:48:08.248Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:48:38.243Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:48:44.254Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:49:14.250Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:49:16.132Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:49:46.131Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:49:47.204Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:51:08.058Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:51:11.918Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:51:41.916Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:51:43.637Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:52:13.633Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:52:15.364Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:52:15.965Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T10:52:45.965Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:52:50.969Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:53:20.967Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:53:27.018Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:53:57.011Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:53:58.856Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:54:28.854Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:54:30.824Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:55:00.820Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:55:03.149Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:55:33.144Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:55:40.097Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:56:10.096Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:56:15.894Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:56:45.891Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:56:47.898Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:57:17.896Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:57:23.950Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:57:53.940Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:57:56.435Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:58:26.434Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:58:28.815Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:59:24.375Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:59:26.028Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T10:59:56.029Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T10:59:58.491Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:00:28.488Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:00:30.690Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:01:00.684Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:01:02.008Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:01:32.007Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:01:38.725Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:02:08.721Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:02:15.580Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:02:45.577Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:02:50.882Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:03:20.878Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:03:23.315Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:03:53.311Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:03:55.026Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:04:25.018Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:04:27.198Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:04:57.180Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:04:58.725Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:05:22.276Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Notification Recieved"
+      },
+      {
+        "time": "2024-04-04T11:07:11.860Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:07:13.162Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:07:43.159Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:07:44.143Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:08:14.141Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:08:20.536Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:08:50.535Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:08:51.646Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:09:21.643Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:09:28.184Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:09:58.183Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:09:59.514Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:10:29.516Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:10:31.756Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:11:01.753Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:11:03.824Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:11:33.821Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:11:35.052Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:12:05.049Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:12:10.823Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:12:40.823Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:12:46.921Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:13:16.919Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:13:19.164Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:13:49.162Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:13:55.764Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:14:25.760Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:14:27.393Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:14:57.387Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:15:03.881Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:15:33.875Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:15:38.496Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:16:08.492Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:16:10.993Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:16:40.991Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:16:47.308Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:17:17.307Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:17:18.580Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:17:48.571Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:17:50.690Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:18:20.690Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:18:23.171Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:18:53.166Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:18:55.065Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:19:25.061Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:19:27.216Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:19:57.211Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:19:59.135Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:20:29.131Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:20:31.075Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:21:01.067Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:21:07.184Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:21:37.182Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:21:38.072Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:22:08.068Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:22:10.913Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:22:40.909Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:22:41.823Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:23:11.821Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:23:13.417Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:23:43.415Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:23:45.407Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:24:15.407Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:24:17.196Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:24:47.191Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:24:49.606Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:25:19.601Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:25:21.344Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:25:51.341Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:25:57.677Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:26:27.673Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:26:29.372Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:26:59.369Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:27:00.921Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:27:30.917Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:27:33.585Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:28:03.581Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:28:05.819Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:28:35.816Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:28:37.482Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:29:07.497Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:29:13.560Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:29:43.529Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:29:49.617Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:30:19.600Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:30:22.224Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:30:52.218Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:30:58.748Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:31:28.743Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:31:31.605Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:32:01.600Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:32:03.444Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:32:33.441Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:32:39.675Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
       }
     ],
     "ipLog": []
   },
-  "clients": []
+  "clients": [
+    {
+      "clientID": "4447b23eee261390",
+      "firstSeen": "2024-04-04T04:53:41.805Z",
+      "lastSeen": "2024-04-04T11:32:39.669Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "1",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N970F",
+          "manufacture": "samsung",
+          "version": "12"
+        }
+      }
+    }
+  ]
 }
