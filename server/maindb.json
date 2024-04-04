@@ -4443,6 +4443,26 @@
         "time": "2024-04-04T11:32:39.675Z",
         "type": "INFO",
         "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:33:09.677Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:33:11.480Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
+      },
+      {
+        "time": "2024-04-04T11:33:41.471Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Disconnected"
+      },
+      {
+        "time": "2024-04-04T11:33:47.452Z",
+        "type": "INFO",
+        "message": "4447b23eee261390 Connected"
       }
     ],
     "ipLog": []
@@ -4451,7 +4471,7 @@
     {
       "clientID": "4447b23eee261390",
       "firstSeen": "2024-04-04T04:53:41.805Z",
-      "lastSeen": "2024-04-04T11:32:39.669Z",
+      "lastSeen": "2024-04-04T11:33:47.441Z",
       "isOnline": true,
       "dynamicData": {
         "clientIP": "1",
